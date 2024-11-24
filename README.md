@@ -1,2 +1,2 @@
-# nodepay2
+# Nodepay2
 Ping nodepay using public free proxy
